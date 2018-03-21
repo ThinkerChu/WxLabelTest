@@ -1,7 +1,7 @@
 //app.js
 App({
     config: {
-      host: '10500935.minitom.net'
+      host: ''
     },
     onLaunch () {
         console.log('App.onLaunch()');
